@@ -13,7 +13,7 @@
     "@cloudscape-design/components": "^3.0.1203",
     "@cloudscape-design/global-styles": "^1.0.50",
     "@react-oauth/google": "^0.13.4",
-    "react": "^19.2.0",
+    "react": "^19.2.4",
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
